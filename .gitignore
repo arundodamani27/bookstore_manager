@@ -1,0 +1,7 @@
+@"
+node_modules/
+.env
+"@ | Out-File -FilePath .gitignore -Encoding utf8
+
+git config user.name "arundodamani27"
+git config user.email "arundodamani27@gmail.com"
